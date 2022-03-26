@@ -1,4 +1,4 @@
-// let number = 5;
+/* // let number = 5;
 // const leftBorderWidth = 1;
 
 // number = 10;
@@ -24,7 +24,7 @@
 
 // Другая тема
 
-// "use sctrict";
+// "use sctrict" ;
 
 // alert("Hello");
 
@@ -47,31 +47,31 @@
 // // console.log('https://someurl.com/' + category);
 // console.log(`https://someurl.com/${category}/5`);
 
-// const user = "Ivan";
+/* // const user = "Ivan";
 
-// alert(`Привет, ${user}`);
+// alert(`Привет, ${user}`); */
 
-"use sctrict";
+// "use sctrict";
 
-console.log("word" + 'text');
-console.log('word' + " - are the world");
-console.log("4" + '6');
-console.log(4 + '6');
-console.log(4 + 6);
+// console.log("word" + 'text');
+// console.log('word' + " - are the world");
+// console.log("4" + '6');
+// console.log(4 + '6');
+// console.log(4 + 6);
 
-let incr = 20,
-    decr = 20;
+// let incr = 20,
+//     decr = 20;
 
-// incr++;
-// decr--;
+// // incr++;
+// // decr--;
 
-console.log(++incr);
-console.log(--decr);
+// console.log(++incr);
+// console.log(--decr);
 
-console.log(5%2);
-console.log(2*4 == 8);
+// console.log(5%2);
+// console.log(2*4 == 8);
 
-const isChecked = true,
-      isClose = true;
-console.log(isChecked && isClose);
+// const isChecked = true,
+//       isClose = true;
+// console.log(isChecked && isClose); 
 
